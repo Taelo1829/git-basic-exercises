@@ -1,0 +1,187 @@
+    1  pkg update
+    2  pkg upgrade
+    3  pkg install git
+    4  git config --global user.email "tseholoba2@gmail.com"
+    5  git config --global user.name "Taelo"
+    6  termux-setup-storage
+    7  cd storage/shared
+    8  ls
+    9  sudo dnf install git-all
+   10  pkg install tsu
+   11  sudo dnf install git-all
+   12  n
+   13  no
+   14  sudo apt install git-all
+   15  git - version
+   16  cd git -2.8.0
+   17  git --global user.name "Taelo Seholoba"
+   18  git --global user.email tseholoba2@gmail.com
+   19  man git
+   20  git config --list
+   21  git config --list --show-origin
+   22  git config --show-origin
+   23  ls
+   24  cd storage
+   25  ls
+   26  cd shared
+   27  ls
+   28  cd github
+   29  git init
+   30  cs
+   31  cd
+   32  git clone https://github.com/Umuzi-org/Taelo-Seholoba-606-tilde-project-tutorial-how-repo-projects-work-/
+   33  git status
+   34  clear
+   35  mkdir git-basic-exercises
+   36  cd git-basic-exercises/
+   37  ls -a
+   38  git init
+   39  ls -a
+   40  git status
+   41  lz
+   42  ls
+   43  cd storage
+   44  ls
+   45  cd shared
+   46  mkdir git-basic-exercises
+   47  cd git-basic-exercises/
+   48  ls
+   49  git init
+   50  ls
+   51  ls -a
+   52  git status
+   53  touch README.md
+   54  rmdir Taelo
+   55  ls
+   56  cd new_way/
+   57  rmdir Taelo/
+   58  cd Taelo/
+   59  rmdir tyro/
+   60  cd tyro/
+   61  ls
+   62  rm tyro.java
+   63  ls
+   64  cd ..
+   65  rmdir tyro/
+   66  cd ..
+   67  rmdir Taelo/
+   68  cd Taelo/
+   69  ls
+   70  rmdir tyrp
+   71  rmdir tyro
+   72  cd tyro
+   73  ls
+   74  ls -a
+   75  rmdir .git
+   76  cd .ls
+   77  cd .git
+   78  ls
+   79  clear
+   80  cd
+   81  cd storage/shared/git-basic-exercises/
+   82  ls
+   83  git status
+   84  git log
+   85  git add .
+   86  git status
+   87  git rm --chached README.md
+   88  git status
+   89  git rm README.md
+   90  -f
+   91  git status
+   92  git rm --cached README.md
+   93  git status
+   94  git add.
+   95  git add .
+   96  git commit -m 'Initial comment'
+   97  git log
+   98  q
+   99  nano README.md
+  100  git status
+  101  cat README.md
+  102  git stats
+  103  git status
+  104  git add .
+  105  git status
+  106  git commit -m 'second commit'
+  107  nano README.md
+  108  git add README.md
+  109  git commit -m 'third commit'
+  110  git log
+  111  git checkout commit 5366a4a1a93b76856f37626fb8eada069728f012
+  112  git status
+  113  git log
+  114  git checkout 5366a4a1a93b76856f37626fb8eada069728f012
+  115  nano README.md
+  116  cat README.md
+  117  git status
+  118  -c
+  119  git branch
+  120  git bramch master
+  121  git branch master
+  122  git checkout master
+  123  git status
+  124  git log
+  125  git branch
+  126  git branch milkshake-flavours
+  127  git branch
+  128  git checkout milkshake-flavours
+  129  git branch
+  130  git branch main
+  131  git branch
+  132  git checkout main
+  133  git rm maib
+  134  git rm main
+  135  git branch rm main
+  136  git branch
+  137  git checkout rm main
+  138  git checkout milkshake-flavours
+  139  nano flavours.md
+  140  cd storage/shared/github/
+  141  mkdir git-basic-exercises
+  142  cd git-basic-exercises/
+  143  ls -a
+  144  git init
+  145  ls -a
+  146  git status
+  147  touch README.md
+  148  ls -a
+  149  git status
+  150  git log
+  151  git add .
+  152  git status
+  153  git rm --cached README.md
+  154  git status
+  155  git add .
+  156  git commit -m 'Initial commit'
+  157  git log
+  158  nano README.md
+  159  cat README.md
+  160  git status
+  161  git add .
+  162  git commit -m 'Second commit'
+  163  nano README.md
+  164  git add README.md 
+  165  git commit -m 'Third commit'
+  166  git log
+  167  git checkout d4d363d9b259352b5ea019362e6daa56604aa0ac
+  168  cat README.md 
+  169  git branch
+  170  git checkout main
+  171  git checkout master
+  172  cat README.md 
+  173  git branch
+  174  git branch milkshake-flavours
+  175  git branch
+  176  git checkout milkshake-flavours
+  177  nano milkshakes.md
+  178  git status
+  179  git add .
+  180  git commit -m 'added initial flavours'
+  181  git log
+  182  git checkout master
+  183  git branch history
+  184  git checkout history
+  185  git log
+  186  git branch
+  187  history > history.txt
